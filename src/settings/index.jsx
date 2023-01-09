@@ -155,7 +155,7 @@ function Settings() {
           </div>
         </div>
       </div>
-      <div className="flex justify-between items-center mb-6 flex-col lg:flex-row">
+      <div className="flex justify-start items-start mb-6 flex-col lg:flex-row lg:items-center lg:justify-between">
         <p className="text-lg font-medium">Billing history</p>
         <button className="flex items-center border-2 border-5DD py-3 px-4 rounded-lg shadow-btn">
           <DownloadIcon />
